@@ -48,7 +48,6 @@ st.markdown("""
         box-shadow: 0 10px 30px rgba(0,0,0,0.3);
         max-width: 420px;
         margin: 0 auto;
-        padding: 10px;
     }
     .calculator-screen {
         background: #162447;
